@@ -9,7 +9,7 @@
 - 허전진 [@zinirun](https://github.com/zinirun)
   - Leader (PM/FE/BE/DB/MSA)
 - 조정민 [@Jeongm1n](https://github.com/Jeongm1n)
-  - Frontend (React.js)
+  - Frontend (React.js) / Backend (Node.js)
 - 이건욱 [@ukunV](https://github.com/ukunV)
   - Backend (Node.js)
 - 신창우 [@zzangw00](https://github.com/zzangw00)
